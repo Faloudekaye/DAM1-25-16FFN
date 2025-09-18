@@ -14,7 +14,7 @@ public static void main(String[] args) {
     edad = sc.nextInt();
 
     boolean mayorDeEdad = edad >= MAYORIA_DE_EDAD;
-//*asdasda */
+
     System.out.println("Hola " + nombre);
     System.out.println("Eres mayor de Edad?" + mayorDeEdad);
     
